@@ -2,6 +2,8 @@
 
 The Stock Analysis Project is designed to offer comprehensive insights into the stock market by employing historical stock data analysis and sentiment analysis of news articles. Through this Python-based application, users can gain valuable information regarding specific industries and their top stocks, aiding investors and market analysts in making informed decisions.
 
+![Image Description](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 ## Introduction
 
 The project is structured into three primary components: fetching stock data, analyzing news sentiment, and generating predictions. By integrating various APIs and utilizing data-driven techniques, the application aims to provide a holistic view of the stock market landscape.
